@@ -1,5 +1,7 @@
 # ROSREESTR TO COORDINATE
 
+![PyPI](https://img.shields.io/pypi/v/rosreestr2coord?style=flat-square)
+
 Инструмент, позволяющий вычислять координаты участка по его кадастровому номеру.
 Данные берутся с сайта публичной кадастровой карты [http://pkk.rosreestr.ru/](http://pkk.rosreestr.ru/).
 
